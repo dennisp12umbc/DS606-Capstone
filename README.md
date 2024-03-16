@@ -43,15 +43,7 @@ Analyzing motor vehicle crash data using machine learning involves several key s
 
 ## Modeling Results and Discussions
 
-The summary outputs and visualizations below are useful for drawing conclusions and gaining useful insights about when, where in which conditions that vehicle collisions occur most in Montgomery County.
-
 <a id="limitationsandchallenges"></a>
 
 ## Limitations and Challenges
 
-In addition to time limitation to explore the data and tools to create a predictive modelling of crash incidents, the following major challenges were encountered during this predictiion of car crash severity and frequency by training a machine learning model.
- - data transformation as the data have a lot of N/A, NA and blank rows
- - difficulty to come up robust analysis approach due to the categorical nature of the variables
- - 
-
-Further reaserach and data analysis approaches are recommended to closely analyse each variables to come up with a good crash analysis model. 
