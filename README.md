@@ -6,7 +6,7 @@ This project repository includes all of the code and analysis of predicting car 
 
 - [Background](#background)
 - [Literature review](#literaturereview)
-- [Data and Methodology](#dataandmethodology)
+- [Methodology](#methodology)
 - [Data Preparation](#datapreparation)
 - [Modeling Results and Discussions](#modelingresultsanddiscussions)
 - [Limitations and Challenges](#limitationsandchallenges)
@@ -26,9 +26,9 @@ Depending on which features the model believes to be the most important, state a
 
 The purpose of this project is to predict car crash severity and frequency by training a machine learning model to find the most relevant risk factors for different kinds of vehicle crashes (fatal, injury, or property damage) and gain useful insight about vehicle crashes within the state of Maryland.
 
-<a id="dataandmethodology"></a>
+<a id="methodology"></a>
 
-## Data and Methodology
+## Methodology
 
 ### Data
 
@@ -41,9 +41,9 @@ The information from this dataset used for the model and visualization include a
 Data preprocessing is an integral step in machine learning as the quality of data and the useful information that can be derived from it directly affects the ability of our model to learn; therefore, it is extremely important that we preprocess our data before feeding it into our model.
 Analyzing motor vehicle crash data using machine learning involves several key steps. Here's a more detailed breakdown of the process. This dataset was cleaned up, transformed, and pre-processed to build and train the predictive models. It is because some of the data columns contain redundant data, or are uncorrelated to the prediction target, or consist of missing values. 
 
-<a id="dataanalysisandvisualizations"></a>
+<a id="modelingresultsanddiscussions"></a>
 
-## Data Analysis and Visualizations
+## Modeling Results and Discussions
 
 The summary outputs and visualizations below are useful for drawing conclusions and gaining useful insights about when, where in which conditions that vehicle collisions occur most in Montgomery County.
 
