@@ -6,7 +6,6 @@ This project repository includes all of the code and analysis of predicting car 
 
 - [Introduction](#introduction)
 - [Methodology](#methodology)
-- [Data Preparation](#datapreparation)
 - [Modeling Results and Discussions](#modelingresultsanddiscussions)
 - [Limitations and Challenges](#limitationsandchallenges)
 
@@ -29,7 +28,9 @@ The purpose of this project is to predict car crash severity and frequency by tr
 
 ## Methodology
 
-### Data Collection
+In this section, the dataset used in our study is presented along with the data preprocessing activities.
+
+### Data Preparation
 
 This project used data obtained from the  [**Maryland Crash Database**](https://mdsp.maryland.gov/Pages/Dashboards/CrashDataDownload.aspx). Available data is compiled from Police crash reports approved and submitted to the Maryland Department of State Police (MDSP) via the Automated Crash Reporting System (ACRS). Crash locations reflect the approximate locations of the incident based on longitudinal and latitudinal information provided by the officer  through ACRS. The dataset provides general information about each incident tracked with a report number and includes driver, nonmotorist, passenger, vehicle and collision circumstances occurring on all county and local roadways, and state and interstate highways within the State of Maryland, as collected via the Automated Crash Reporting System (ACRS) of the Maryland State Police. The dataset is updated daily, and the version used for this project contains data from January 2020 to December 2023. In a given year there are about 100,000 reported incidents. They also provide a shapefile of main public roads in the whole state.
 
