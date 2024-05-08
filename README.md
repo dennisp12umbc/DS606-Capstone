@@ -40,7 +40,9 @@ The information from this dataset used for the model and visualization include a
 
 Data preprocessing is an integral step in machine learning as the quality of data and the useful information that can be derived from it directly affects the ability of our model to learn; therefore, it is extremely important that we preprocess our data before feeding it into our model.
 Analyzing motor vehicle crash data using machine learning involves several key steps. Here's a more detailed breakdown of the process. This dataset was cleaned up, transformed, and pre-processed to build and train the predictive models. It is because some of the data columns contain redundant data, or are uncorrelated to the prediction target, or consist of missing values. 
-![Methodology](https://github.com/dennisp12umbc/DS606-Capstone/assets/90659371/0c8be716-7b8f-4bbc-a2bd-9b682b657bd2)
+
+![Methodology Final](https://github.com/dennisp12umbc/DS606-Capstone/assets/90659371/6b44cccc-8a1e-4bb0-8b98-453d99e4271f)
+
 
 
 
