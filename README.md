@@ -7,7 +7,7 @@ This project repository includes all of the code and analysis of predicting car 
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Modeling](#modeling)
-- [Results and Discussions](#resultsanddiscussions)
+- [Results and Discussion](#resultsanddiscussion)
 - [Limitations and Challenges](#limitationsandchallenges)
 - [Future Development](#futuredevelopment)
 - [Conclusion](#conclusion)
@@ -89,9 +89,9 @@ Accuracy was not a particularly valid metric for us due to the imbalance in the 
 
 If the model is well-performing, then we can assume that its weights for all the different features are relatively reliable. The model can rank the features used to train it in order of importance using a kind of correlation coefficient where the higher the coefficient, the more important that feature is.
 
-<a id="resultsanddiscussions"></a>
+<a id="resultsanddiscussion"></a>
 
-## Results and Discussions
+## Results and Discussion
 
 <a id="limitationsandchallenges"></a>
 
