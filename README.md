@@ -1,4 +1,4 @@
-# Data606-Capstone Project
+# Data 606-Capstone Project
 
 # Predicting Car Crash Severity and Frequency in Maryland
 
