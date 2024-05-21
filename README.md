@@ -8,7 +8,6 @@ This project repository includes all of the code and analysis of predicting car 
 - [Methodology](#methodology)
 - [Modeling](#modeling)
 - [Results and Discussion](#resultsanddiscussion)
-- [Limitations and Challenges](#limitationsandchallenges)
 - [Future Development](#futuredevelopment)
 - [Conclusion](#conclusion)
 
@@ -93,9 +92,6 @@ If the model is well-performing, then we can assume that its weights for all the
 
 ## Results and Discussion
 
-<a id="limitationsandchallenges"></a>
-
-## Limitations and Challenges
 
 <a id="futuredevelopment"></a>
 
