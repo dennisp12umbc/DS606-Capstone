@@ -146,14 +146,24 @@ We used both traditional and AI-based analysis to predict crash severity and fre
 ### References
 
 Al Mamlook, R. E., Abdulhameed, T. Z., Hasan, R., Al-Shaikhli, H. I., Mohammed, I., & Tabatabai, S. (2020, July). Utilizing machine learning models to predict the car crash injury severity among elderly drivers. In 2020 IEEE international conference on electro information technology (EIT) (pp. 105-111). IEEE.
+
 AlMamlook, R. E., Kwayu, K. M., Alkasisbeh, M. R., & Frefer, A. A. (2019, April). Comparison of machine learning algorithms for predicting traffic accident severity. In 2019 IEEE Jordan international joint conference on electrical engineering and information technology (JEEIT) (pp. 272-276). IEEE.
+
 Alkan, G., Farrow, R., Liu, H., Moore, C., Ng, H. K. T., Stokes, L., ... & Zhong, Y. (2021). Predictive modeling of maximum injury severity and potential economic cost in a car accident based on the General Estimates System data. Computational Statistics, 36, 1561-1575.
+
 Assi, K., Rahman, S. M., Mansoor, U., & Ratrout, N. (2020). Predicting crash injury severity with machine learning algorithm synergized with clustering technique: A promising protocol. International journal of environmental research and public health, 17(15), 5497.
+
 Bhowmik, T., Yasmin, S., & Eluru, N. (2021). A new econometric approach for modeling several count variables: a case study of crash frequency analysis by crash type and severity. Transportation research part B: methodological, 153, 172-203.
+
 Fiorentini, N., & Losa, M. (2020). Handling imbalanced data in road crash severity prediction by machine learning algorithms. Infrastructures, 5(7), 61.
+
 Iranitalab, A., & Khattak, A. (2017). Comparison of four statistical and machine learning methods for crash severity prediction. Accident Analysis & Prevention, 108, 27-36. 
+
 J. Zhang, Z. Li, Z. Pu and C. Xu, "Comparing Prediction Performance for Crash Injury Severity Among Various Machine Learning and Statistical Methods," in IEEE Access, vol. 6, pp. 60079-60087, 2018, doi: 10.1109/ACCESS.2018.2874979.
+
 Rahman, M. S., Abdel-Aty, M., Hasan, S., & Cai, Q. (2019). Applying machine learning approaches to analyze the vulnerable road-users' crashes at statewide traffic analysis zones. Journal of safety research, 70, 275-288.
 “Road traffic injuries.” https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries (accessed 13 December 2023).
+
 Santos, K., Dias, J. P., & Amado, C. (2022). A literature review of machine learning algorithms for crash injury severity prediction. Journal of safety research, 80, 254-269.
+
 Wang, X., & Kim, S. H. (2019). Prediction and factor identification for crash severity: comparison of discrete choice and tree-based models. Transportation research record, 2673(9), 640-653
